@@ -1,0 +1,13 @@
+#signup{
+   display: flex; 
+}
+#intro{
+display: flex;
+gap: 7%;
+background-color: blue;
+}
+#fast{
+  display: flex;  
+
+}
+
